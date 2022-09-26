@@ -5,7 +5,7 @@ text-align:center;
 
 h1{
   color:darkblue;
-  text-align:center;
+  text-align:center !important;
 }
 a {color:darkblue;
   text-align:center;}
