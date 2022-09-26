@@ -1,11 +1,10 @@
 body{
   background-color:lightblue;
-text-align:center;
 }
 
 h1{
   color:darkblue;
-  text-align:center !important;
+  text-align:center;
 }
 a {color:darkblue;
   text-align:center;}
