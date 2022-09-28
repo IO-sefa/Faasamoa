@@ -2,6 +2,7 @@ body{
   background-color:lightblue;
   text-align:center;
   font-family:"Bahnschrift SemiLight", Bahnschrift,Helvetica;
+  margin:0;
 }
 
 h1{
@@ -26,5 +27,4 @@ footer{
 }
 Header{background-color:steelblue;
   text-align:left;
-  margin:0;
 }
