@@ -35,6 +35,5 @@ Header{background-color:steelblue;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
-  border-color:black;
-  border: 1px;
+  border: 1px solid black;
 }
