@@ -22,11 +22,13 @@ p {
   font-size:20px;
 }
 footer{
+  <div>
+  height:50px;
   background-color:steelblue;
    margin-left: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
-  ;
+  </div>
 }
 Header{background-color:steelblue;
   text-align:left;
