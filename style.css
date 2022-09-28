@@ -4,6 +4,8 @@ body{
   font-family:"Bahnschrift SemiLight", Bahnschrift,Helvetica;
   margin:0;
   min-height: 100vh;
+  display: flex;
+    flex-direction: column;
 }
 
 h1{
@@ -26,6 +28,7 @@ footer{
   <div>
   height:100px;
   background-color:steelblue;
+  margin-top: auto;
    margin-left: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
