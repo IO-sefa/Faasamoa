@@ -47,6 +47,7 @@ Fontsize:16px;
 }
 #para{background-color: azure;
   border: 1px solid black;
+  margin-top: 20px;
   margin-left: 150px;
   margin-right: 150px;
   border-radius: 25px;}
