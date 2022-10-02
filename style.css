@@ -29,6 +29,7 @@ p {
 footer{
   <div>
   height:100px;
+  color: white;
   background-color:navy;
   margin-top: auto;
    margin-left: 0px;
@@ -37,6 +38,7 @@ footer{
   </div>
 }
 Header{background-color:navy;
+  color: white;
   height: 25px;
 Fontsize:16px;
   text-align:left;
