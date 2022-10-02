@@ -29,14 +29,14 @@ p {
 footer{
   <div>
   height:100px;
-  background-color:steelblue;
+  background-color:navy;
   margin-top: auto;
    margin-left: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
   </div>
 }
-Header{background-color:steelblue;
+Header{background-color:navy;
   height: 25px;
 Fontsize:16px;
   text-align:left;
