@@ -53,3 +53,9 @@ Fontsize:16px;
   margin-left: 150px;
   margin-right: 150px;
   border-radius: 25px;}
+
+table, th, td {
+  border: 1px solid;
+}
+table{
+  width: 80%}
